@@ -6,7 +6,7 @@ This has been fixed, but it will not work with wallets created before [this comm
 
 Also, we are switching to a release-based system, so you should checkout one of the tagged versions instead of using master. The 0.3 series will not contain any breaking changes, but the 0.4 releases will. So please use a 0.3 release if you are using Coinpunk in production.
 
-# ![Coinpunk](http://i.imgur.com/m1diPkP.png)
+# ![Dogepunk](http://i.imgur.com/m1diPkP.png)
 
 Run your own Bitcoin wallet service.
 
